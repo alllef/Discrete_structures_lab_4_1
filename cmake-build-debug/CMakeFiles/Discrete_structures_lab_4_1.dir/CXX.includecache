@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/alekz29/CLionProjects/CW/Discrete structures lab 4.1/main.cpp
+iostream
+-
+vector
+-
+stack
+-
+string
+-
+fstream
+-
+iomanip
+-
+Windows.h
+-
+
